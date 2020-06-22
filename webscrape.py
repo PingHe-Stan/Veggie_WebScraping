@@ -1,3 +1,5 @@
+#This is a Web Scraping Script
+
 from bs4 import BeautifulSoup
 import json
 import requests
